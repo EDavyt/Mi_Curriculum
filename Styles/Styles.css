@@ -1,0 +1,35 @@
+header{
+    background-color: rgb(219, 217, 217);
+    margin-bottom: 128px;
+}
+header img{
+    display: flex;
+    margin-inline: auto;
+}
+Header h1{
+    text-align: center;
+    background-color: rgb(168, 165, 165);
+    letter-spacing: 0.8rem;
+    font-family: 'Times New Roman';
+    color: #005677;
+    
+}
+main section h2{
+    color: #005677;
+}
+.Bold{
+    font-weight: bold;
+    font-style: italic;
+}
+
+footer {
+    text-align: center;
+    background-color: #005677    ;
+    color: white;
+    margin-right: 10px;
+    margin-top: 147px;
+}
+
+section h2{
+    background-color: rgb(168, 165, 165);
+}
